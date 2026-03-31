@@ -5,7 +5,7 @@ A professional Java Desktop Application developed for college students to track,
 ---
 
 ##  Project Overview
-Financial management is a critical skill for students. This application provides a localized, lightweight solution to log daily spending in **Rupees (₹)**. It allows users to categorize expenses (such as Mess, Hostel, or Stationery) and generate specific monthly reports to help monitor spending habits and stay within a budget.
+Financial management is a critical skill for students.I have personally struggled with finding a place to keep up with my expenses with a simple UI anslo something which is based on Rupees, instead of Dollars.This application provides a localized, lightweight solution to log daily spending in **Rupees (₹)**. It allows users to categorize expenses (such as Mess, Hostel, or Stationery) and generate specific monthly reports to help monitor spending habits and stay within a budget.
 
 ##  Key Features
 - **Localized UI:** Native support for the Rupee (₹) symbol.
