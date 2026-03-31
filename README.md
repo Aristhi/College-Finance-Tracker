@@ -9,7 +9,7 @@ A custom Java Desktop Application built to help students manage their daily expe
 - **Modern UI:** Blue theme and better UX.
 - **Data Persistence:** Saves all data to `expenses.txt` automatically.
 
-### 🔄 Technical Flow
+### Technical Flow
 1. **Data Entry:** User inputs price, date, and category via the Swing GUI.
 2. **Validation:** The app checks for valid number formats and date strings (`YYYY-MM-DD`).
 3. **Storage:** The `Expense` object is added to an `ArrayList` and simultaneously written to `expenses.txt`.
