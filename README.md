@@ -1,8 +1,10 @@
-#  College Student Finance Tracker (₹)
+# 🎓 College Student Finance Tracker 
 
 A professional Java Desktop Application developed for college students to track, categorize, and analyze their daily expenses. This project serves as the final "Bring Your Own Project" (BYOP) Capstone submission for the VITyarthi Java Programming course.
 
-##  Project Overview
+---
+
+## 📖 Project Overview
 Financial management is a critical skill for students. This application provides a localized, lightweight solution to log daily spending in **Rupees (₹)**. It allows users to categorize expenses (such as Mess, Hostel, or Stationery) and generate specific monthly reports to help monitor spending habits and stay within a budget.
 
 ##  Key Features
@@ -28,10 +30,11 @@ Open your terminal or command prompt and run:
 java -version
 If you see a version number (e.g., java version "17.0.x"), your environment is ready.
 
- Installation & Execution (Step-by-Step)
+Installation & Execution (Step-by-Step)
 Step 1: Clone or Download the Repository
 Clone the repository using Git:
 
+Bash
 git clone [https://github.com/Aristhi/College-Finance-Tracker.git](https://github.com/Aristhi/College-Finance-Tracker.git)
 cd College-Finance-Tracker
 (Alternatively, download the ZIP file from GitHub and extract it to a folder).
@@ -39,12 +42,15 @@ cd College-Finance-Tracker
 Step 2: Compile the Source Code
 The application consists of two core Java files. Compile them together to link the classes:
 
+Bash
 javac Expense.java FinanceTracker.java
 
 Step 3: Run the Application
 Execute the main class to launch the Graphical User Interface (GUI):
 
+Bash
 java FinanceTracker
+
  Project Structure & Configuration
 FinanceTracker.java: The entry point of the app. Handles the GUI (Swing), Event Listeners, and Monthly Filtering logic.
 
@@ -60,5 +66,4 @@ Generating a Report: Type the name of the month (e.g., "March") into the report 
 Data Safety: All entries are saved instantly. You can close the app and reopen it to find your data intact.
 
 Developer: Arnima Awasthi
-
 Submission: VITyarthi BYOP Capstone Project 2026
