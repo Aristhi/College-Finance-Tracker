@@ -1,10 +1,10 @@
-# 🎓 College Student Finance Tracker 
+#  College Student Finance Tracker 
 
 A professional Java Desktop Application developed for college students to track, categorize, and analyze their daily expenses. This project serves as the final "Bring Your Own Project" (BYOP) Capstone submission for the VITyarthi Java Programming course.
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 Financial management is a critical skill for students. This application provides a localized, lightweight solution to log daily spending in **Rupees (₹)**. It allows users to categorize expenses (such as Mess, Hostel, or Stationery) and generate specific monthly reports to help monitor spending habits and stay within a budget.
 
 ##  Key Features
@@ -34,7 +34,6 @@ Installation & Execution (Step-by-Step)
 Step 1: Clone or Download the Repository
 Clone the repository using Git:
 
-Bash
 git clone [https://github.com/Aristhi/College-Finance-Tracker.git](https://github.com/Aristhi/College-Finance-Tracker.git)
 cd College-Finance-Tracker
 (Alternatively, download the ZIP file from GitHub and extract it to a folder).
@@ -42,13 +41,11 @@ cd College-Finance-Tracker
 Step 2: Compile the Source Code
 The application consists of two core Java files. Compile them together to link the classes:
 
-Bash
 javac Expense.java FinanceTracker.java
 
 Step 3: Run the Application
 Execute the main class to launch the Graphical User Interface (GUI):
 
-Bash
 java FinanceTracker
 
  Project Structure & Configuration
